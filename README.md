@@ -1,4 +1,4 @@
-[⚠️ Suspicious Content] 🏦 Banco POO
+ 🏦 Banco POO
 
 Projeto de estudo em Java Orientado a Objetos (POO) simulando um sistema bancário.
 Permite gerenciar clientes, contas (corrente, poupança e investimento) e realizar transações como depósitos, saques e transferências.
