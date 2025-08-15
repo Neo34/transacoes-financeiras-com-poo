@@ -85,6 +85,6 @@ Suporte a mais tipos de investimentos
 
 Relatórios financeiros
 
-👨‍💻 Autor
+👨‍💻 Autor(César)
 
 Projeto desenvolvido para fins educacionais como prática de Java + POO + Maven.
